@@ -3,8 +3,10 @@ import './FeaturedMovie.css';
 
 export default ({item}) => {
     return (
-        <section className="featured">
-
+        <section className="featured" style={{background: 'cover', backgroundPosition: 'center', backgroundImage: `url(https://image.tmdb.org/t/p/original${item.backdrop_path})`}}>
+            <div className="featured--vertical">
+                
+            </div>
         </section>
     )
 }
