@@ -10,9 +10,9 @@ A branch principal possui o projeto com o React. <br />
 A branch secundária possui o projeto em HTML + CSS + Jquery da DIGITAL INNOVATION ONE.
 
 ## Desktop Review
-![desktop](https://ibb.co/M7ChJr6)
-![desktop](https://ibb.co/bQSc6Gj)
-![desktop](https://ibb.co/GMWHbrh)
+![img](https://i.ibb.co/7tmQ2tz/Ci-EG9s-Usoc.png)
+![desktop](https://i.ibb.co/chZ9t4L/chrome-YKh2-MSj53k.png)
+![desktop](https://i.ibb.co/kD4mWPd/chrome-uw-CYGs-Al-UE.png)
 ![desktop](https://ibb.co/Kxfg7Tw)
 ![desktop](https://ibb.co/XxRDSx4)
 
