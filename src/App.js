@@ -30,11 +30,11 @@ export default () => {
 
   useEffect(() => {
     const scrollListener = () => {
-        if (window.scrollY > 15){
-          setBlackHeader(true)
-        }else {
-          setBlackHeader(false);
-        }
+      if (window.scrollY > 15) {
+        setBlackHeader(true)
+      } else {
+        setBlackHeader(false);
+      }
     }
     window.addEventListener("scroll", scrollListener);
     return () => {
@@ -59,6 +59,11 @@ export default () => {
         Direitos de imagem para Netflix<br />
         Dados obtidos no site da Themoviedb.org
       </footer>
+      {movieList.length <= 0 &&
+        <div className="loading">
+          <img src="https://cdn.lowgif.com/small/0534e2a412eeb281-the-counterintuitive-tech-behind-netflix-s-worldwide.gif" alt="Carregando" />
+        </div>
+      }
     </div>
   )
 }
