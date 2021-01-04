@@ -1,7 +1,7 @@
 # Netflix Clone com React
 
-Este projeto foi criado usando React JS durante o bootcamp da [B7web](https://b7web.com.br/fullstack/).
-Utilizando a API da [TheMovieDB](https://www.themoviedb.org/). <br />
+Este projeto foi criado usando React JS durante o bootcamp da [B7web](https://b7web.com.br/fullstack/).<br />
+Utilizando a API da [TheMovieDB](https://www.themoviedb.org/). 
 
 ## Projeto no Git Pages:
 [https://elvis-brito.github.io/netflix-clone/](https://elvis-brito.github.io/netflix-clone/)
